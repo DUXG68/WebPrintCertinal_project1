@@ -1,0 +1,14 @@
+{
+    "nameInputLeft": "28vw" ,
+    "nameInputTop": "47vh",
+    "nameInputFontSize": "6vh" ,
+
+    "evaluateInputLeft": "24vw" ,
+    "evaluateInputTop": "57vh",
+    "evaluateInputFontSize": "3.75vh" ,
+
+    "dateInputLeft": "56.4vw" ,
+    "dateInputBottom": "17vh",
+    "dateInputFontSize": "3.75vh" 
+  }
+  

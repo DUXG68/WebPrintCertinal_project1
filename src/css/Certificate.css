@@ -1,0 +1,71 @@
+/* @media print {
+     .nameInput{
+       left: 28vw !important;
+      top:47vh !important; 
+       font-size: 6vh !important; 
+    }
+    .evaluateInput{
+      left: 24vw !important;
+      top:57vh !important;
+      font-size: 3.75vh !important;
+    }
+    .dateInput{
+      left: 56.4vw !important ; 
+      bottom: 17vh !important;
+      font-size: 3.75vh !important;
+    } 
+    .left-side {
+      width: 100% !important;
+    }
+
+    .right-side {
+      display: none;
+    }
+  
+    .content-wrapper {
+      width: 100% !important;
+      height: 100% !important;
+      border: none !important;
+    }
+  } */
+  
+  .content-wrapper {
+    width: 594px;
+    height: 420px;
+    position: relative;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .backG{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+
+  }
+  
+ .nameInput{
+    position: absolute;
+    text-align: center;
+    left: 160px;
+    font-family: 'Roboto Condensed', sans-serif;
+    top:200px;
+    font-size: 25.6px;
+ }
+ .evaluateInput{
+    position: absolute;
+    text-align: center;
+    left: 136px;
+    font-weight: normal ;
+    font-style: italic;
+    top:240px;
+    font-size: 16px;
+ }
+  .dateInput{
+    position: absolute;
+    text-align: center;
+    left: 334px;
+    bottom:72px;
+    font-size: 16px;
+  }
