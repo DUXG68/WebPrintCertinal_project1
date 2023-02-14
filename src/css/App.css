@@ -1,7 +1,7 @@
-@media screen and (max-width:1120px) {
-.left-side{
-  display: none !important;
-}
+@media screen and (max-width: 1120px) {
+  .left-side {
+    display: none !important;
+  }
 }
 .root {
   display: flex;
